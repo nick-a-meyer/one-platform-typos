@@ -8,7 +8,7 @@
   },
   {
     "name": "Feedback",
-    "description": "Allows users to review and rate services and products provided by teams. Built into a power packed microservice so serve all.",
+    "description": "Allows users to review and rate services and products provided by teams. Built into a power packed microservice to serve all.",
     "link": "/get-started/docs/feedback",
     "icon": "/static/img/feedback.svg",
     "imgBgColor": "#FAEAE8"
