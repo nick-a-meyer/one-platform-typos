@@ -21,7 +21,7 @@ export const microservicesHeader = [
 export const microservicesDesc = [
     "Adding authentication to your application is piece of cake. Just integrate with our API and focus on application development.",
     "Allows users to review and rate services and products provided by teams. Built into a power packed microservice to serve all.",
-    "Notification framework for One Platform and also all other SPAs",
+    "Notification framework for One Platform and also all other SPAs.",
     "A prebuilt integration with LDAP to authenticate, authorize, and get user information.",
     "A unified search API gives you ability to search across all hosted applications on the platform."
 ];
